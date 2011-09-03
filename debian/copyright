@@ -1,0 +1,6 @@
+Format: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=153
+Source: https://github.com/ion1/sharp-text-rendering
+
+Files: *
+Copyright: 2011 Johan Kiviniemi
+License: ISC

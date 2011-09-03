@@ -1,0 +1,16 @@
+Source: sharp-text-rendering
+Section: misc
+Priority: extra
+Maintainer: Johan Kiviniemi <debian@johan.kiviniemi.name>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.2
+Vcs-Git: git://github.com/ion1/sharp-text-rendering.git
+Vcs-Browser: https://github.com/ion1/sharp-text-rendering
+
+Package: sharp-text-rendering
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: gsd-lcdfilter
+Description: Configuration for sharp text rendering
+ This package installs Xft, Fontconfig, GConf and GSettings configuration for
+ fully hinted text rendering with the lcdlegacy filter.

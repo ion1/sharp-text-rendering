@@ -1,0 +1,2 @@
+debian/fonts/19-sharp-text-rendering.conf     etc/fonts/conf.avail
+debian/Xresources/sharp-text-rendering        etc/X11/Xresources
