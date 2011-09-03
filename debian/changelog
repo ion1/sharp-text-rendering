@@ -1,5 +1,5 @@
-sharp-text-rendering (1~ppa1) UNRELEASED; urgency=low
+sharp-text-rendering (1~ppa1) oneiric; urgency=low
 
   * Initial release.
 
- -- Johan Kiviniemi <debian@johan.kiviniemi.name>  Fri, 07 Jan 2011 10:10:03 +0200
+ -- Johan Kiviniemi <debian@johan.kiviniemi.name>  Sat, 03 Sep 2011 09:10:04 +0300
